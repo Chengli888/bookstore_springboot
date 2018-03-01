@@ -13,7 +13,9 @@ Online bookstore Web Application
 •	Implemented login, register , and verify code function
 
 •	Let administrator can insert ,update,delete and select books from the database.
+![video](https://drive.google.com/open?id=1JvFfDzih1JrNdMQS7hNDb15vx1NMpFIn)
 
 video that show this project:
 
 https://drive.google.com/drive/folders/1FgLByIJYxQ9gSqGMw4F-P9WgNJAac7xu?usp=sharing
+
